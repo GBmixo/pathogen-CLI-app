@@ -7,5 +7,5 @@ gem "require_all"
 gem "faker"
 gem "sqlite3", "~> 1.4.0"
 gem "rake"
-gem "activerecord", "~>5.2.3"
+gem "activerecord", "~>5.2.4"
 gem 'rest-client'
